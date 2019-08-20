@@ -25,11 +25,11 @@ Q3: What are the strongest motivations behind people leaving their coding job?
 
 ## File Descriptions <a name="files"></a>
 
-There is only one file in this repository named 'project4_stackoverflow.ipynb' in addition this README file. It's a Jupyter notebook that has all the code needed to answer my questions along with some comments explaining the process.
+There is only one file in this repository named 'project4_stackoverflow.ipynb' in addition to this README file. It's a Jupyter notebook that has all the code needed to answer my questions along with some comments explaining the process.
 
 ## Results<a name="results"></a>
 
-The answers I was able to interpret from the Stack Overflow data can be seen on this [blog]().
+The answers I was able to interpret from the Stack Overflow data can be seen either on the Jupyter notebook or on this [blog]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
