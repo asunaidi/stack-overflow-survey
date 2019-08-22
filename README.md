@@ -29,7 +29,7 @@ There is only one file in this repository named 'project4_stackoverflow.ipynb' i
 
 ## Results<a name="results"></a>
 
-The answers I was able to interpret from the Stack Overflow data can be seen either on the Jupyter notebook or on this [blog]().
+The answers I was able to interpret from the Stack Overflow data can be seen either on the Jupyter notebook or on this [blog](https://asunaidi.github.io/stackoverflow-blog/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
